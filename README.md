@@ -11,7 +11,7 @@
 
 
 
-<h4 align-"left"> Leetcode
+<h4 align-"left"> ![GitHub Stats](github_stats.gif)
   
   <a href="https://www.leetcode.com/piixqr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piixqr" height="30" width="40" /></a>
 </p>
