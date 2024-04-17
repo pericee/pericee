@@ -4,7 +4,7 @@
 ![art by @guttykreum](https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif)
 
 <div class="text-center">
-<h4 style="font-size: 12px;"> <i>**Not taking requests**, currently learning learning JavaScript, HTML, Blender animation, MySql, and CSS</i></h5>
+<h4 style="font-size: 12px;"> <i>Not taking requests, currently learning learning JavaScript, HTML, Blender animation, MySql, and CSS</i></h5>
 </div>
 
 <h4 allign="left">Languages and Tools:</h4>
@@ -17,4 +17,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 <h3 allign="left"></a> Terrible Stats </h3>
 
+<div class="text-right">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pericee&show_icons=true&theme=dark) 
+</div>
