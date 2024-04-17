@@ -1,6 +1,5 @@
 <h1 align="center"> Hi I'm Pericee 👋<h1>
 
-
   
 ![art by @guttykreum](https://github.com/pericee/pericee/assets/136433944/ee735a81-cc17-4199-a9a0-c70cb8756d18)
 
@@ -9,5 +8,5 @@
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h4 align ="left"> Tools i am learning:
- <a> href="https://nmap.org"
+<h4 align="left"> Tools I am learning:
+<p> <a href="https://nmap.org" target="_blank" rel="noreffer"> <img src="https://nmap.org/images/sitelogo.png" alt="Nmap" width="40" length="60"/> <a href="https://www.metasploit.com" target="_blank" rel="norefferrer"> <img src="https://miro.medium.com/v2/resize:fit:800/0*SfqwgcqgSIb2VxFf.png" alt="Metasploit" width="50" length="40"> <a href="https://www.putty.org" alt="PuTTY" target="_blank" rel="norefferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png" height="30" length="40"> <a href="https://www.wireshark.org" alt="wireshark" target="_blank" rel="norefferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wireshark_Logo.svg/1024px-Wireshark_Logo.svg.png" alt="Wireshark" width="90" heighth="50"> <a href="https://sqlmap.org" alt="Sqlmap" target="_blank" rel="norefferer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="sqlmap" width="90" height="50" 
